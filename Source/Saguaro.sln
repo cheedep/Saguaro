@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saguaro.Web", "Saguaro.Web\Saguaro.Web.csproj", "{B4340877-ECC1-40EA-8D25-8FF61B7E4106}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saguaro.Domain", "Saguaro.Domain\Saguaro.Domain.csproj", "{FAD520A0-AB25-4064-9384-59D22E9EE567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{B4340877-ECC1-40EA-8D25-8FF61B7E4106}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4340877-ECC1-40EA-8D25-8FF61B7E4106}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4340877-ECC1-40EA-8D25-8FF61B7E4106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD520A0-AB25-4064-9384-59D22E9EE567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD520A0-AB25-4064-9384-59D22E9EE567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD520A0-AB25-4064-9384-59D22E9EE567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD520A0-AB25-4064-9384-59D22E9EE567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
